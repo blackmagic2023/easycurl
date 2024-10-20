@@ -63,7 +63,4 @@ This project is licensed under the MIT License.
 This `easycurl` script simplifies HTTP requests, making it accessible for users to perform various `curl` operations without needing to remember complex command-line options. Enjoy using easycurl!
 blackmagic 2024 ;)
 
-```
-$h5btjnVL_*vzo&/}PGJ7%JA}0hoze=5_+H*&&0*6gzn{6$mc=vSX+T{o_5L
-```
 
